@@ -14,8 +14,8 @@ It follows Kaggle’s Intro to ML workflow.
 - RandomForestRegressor
 
 ## Results
-- Decision Tree MAE: 265,000
-- Random Forest MAE: 230,000
+- Decision Tree MAE: 413532.92461514537 (after limiting overfitting by 100 nodes- 334994.60231187043)
+- Random Forest MAE: 335710.0892282111
 
 ## How to Run
 1. Install Python & required packages (`pandas`, `scikit-learn`, `matplotlib`)
